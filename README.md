@@ -2,8 +2,8 @@
 
 #Equipe  
 1º) Diogo Plínio  
-2º) Ricardo de Magalhães
-3º) Vitinho Agiota
+2º) Ricardo de Magalhães  
+3º) Vitinho Agiota  
 
 Este arquivo funciona como um documento de "apresentação" do projeto.
 Complete o texto, indicando o que você quer fazer:
